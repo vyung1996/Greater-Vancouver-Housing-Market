@@ -1,5 +1,7 @@
 # Greater-Vancouver-Housing-Market
 
+# Greater Vancouver Housing Market #
+
 The purpose of this project is to gather insight on the current Vancouver housing market using Python and Tableau for visualization. <br/>
 
 There are four main areas of focus for this project: <br/>
