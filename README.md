@@ -1,6 +1,6 @@
 # Greater Vancouver Housing Market Analysis
 
-## The purpose of this project is to gather insight on the current Vancouver housing market utlizing Python analysis and Tableau for visualization. <br/>
+## The purpose of this project is to gather insight on the current Vancouver housing market utilizing Python for analysis and Tableau for visualization. <br/>
 
 This project is a full end to end data analysis project that using data that was webscraped from Zillow.com to derive the current housing market in the Greater Vancouver area. The core components of this project includes:
 * Data scraping using python libraries such as beautifulsoup from Zillow.com
