@@ -8,4 +8,6 @@ This is a full end to end data analysis project using data that has been webscra
 * Exploratory data analysis to understand how key features affect the price that has obtained from the dataset such as number of bedrooms, square footage, and location
 * Develop an interactive dashboard with all relevant information using Tableau (https://public.tableau.com/app/profile/victor.yung/vizzes)
 
+Data Scraping
+---
 
