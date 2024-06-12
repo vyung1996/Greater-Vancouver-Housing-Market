@@ -26,13 +26,13 @@ Exploratory Data Analysis
 ---
 Utilzied the correlation between three main features such as square footage, number of bedrooms, and number of bathsrooms to gain a better understanding of how sales price would be affected. Highest correlated feature would be square footage at 0.76 followed by number of bathrooms at 0.55 and lastly number of bedrooms at 0.34.
 
-Moreover, the sales distrubtion is left rights skewed indicating the higher frequency of houses cover a wider range in the market for lower and less expensive homes.
+Moreover, the sales distribution is right skewed indicating the higher frequency of houses cover a wider range in the market for lower and less expensive homes.
 <img width="915" alt="Screen Shot 2024-06-12 at 2 33 56 PM" src="https://github.com/vyung1996/Greater-Vancouver-Housing-Market/assets/132099834/07b2c4d3-966f-4a7f-b8d0-8ed67e4fe023">
 
-We also notice the that Vancouver has generated the highest number of homes for sales. This is due to the population density of the area compared to the other cities compared. 
+We also notice the that Vancouver has generated the highest number of homes for sales. This is due to the population density of the area compared to the other cities. 
 <img width="887" alt="Screen Shot 2024-06-12 at 2 34 29 PM" src="https://github.com/vyung1996/Greater-Vancouver-Housing-Market/assets/132099834/ebaba76d-c63f-4f11-94b6-5e5357897878">
 
-Lastly, we notice that this is a positive linear relation between sales price and square footage. 
+Lastly, we notice that there is a positive linear relation between sales price and square footage. 
 <img width="892" alt="Screen Shot 2024-06-12 at 2 34 16 PM" src="https://github.com/vyung1996/Greater-Vancouver-Housing-Market/assets/132099834/3b59c982-9625-415f-b0f8-571702260288">
 
 
