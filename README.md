@@ -24,7 +24,7 @@ Once the data was collected, cleaning and transforming the data was necessary to
 
 Exploratory Data Analysis
 ---
-Utilzied the correlation between three main features such as square footage, number of bedrooms, and number of bathsrooms to gain a better understanding of how sales price would be affected. Highest correlated feature would be square footage at 0.76 followed by number of bathrooms at 0.55 and lastly number of bedrooms at 0.34.
+Utilized the correlation between three main features such as square footage, number of bedrooms, and number of bathsrooms to gain a better understanding of how sales price would be affected. Highest correlated feature would be square footage at 0.76 followed by number of bathrooms at 0.55 and lastly number of bedrooms at 0.34.
 
 Moreover, the sales distribution is right skewed indicating the higher frequency of houses cover a wider range in the market for lower and less expensive homes.
 <img width="915" alt="Screen Shot 2024-06-12 at 2 33 56 PM" src="https://github.com/vyung1996/Greater-Vancouver-Housing-Market/assets/132099834/07b2c4d3-966f-4a7f-b8d0-8ed67e4fe023">
